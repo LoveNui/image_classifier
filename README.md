@@ -47,4 +47,4 @@ The dataset is available on download [here](https://www.kaggle.com/datasets/krit
 ![Canvas](media/images/mess.png)
 
 ### Flask
-![Web app](media/video/2022-05-01-02-00-41.avi)
+Navigate to `media/video` to see results
