@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Class prediction</title>
+  <style>
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body bgcolor='white' text='black'>
+  <h2> Upload the image to predict!</h2>
+  <form action="/" , method="post" , enctype="multipart/form-data">
+    Upload the image :<input type="file" name="imagefile">
+    <p><input type="submit" value="Predict image"></p>
+  </form>
+  <img src="{{ user_image }}" height="280px" width="400px">
+  <p>
+  <h2>
+    <b> {{ prediction_text }}</b>
+  </h2>
+  </p>
+</body>
+
+</html>
