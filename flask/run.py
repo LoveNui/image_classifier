@@ -4,11 +4,6 @@ from flask import Flask
 from tensorflow.keras.models import load_model
 
 
-import os
-
-from flask import render_template, request
-from prediction import predict_image
-
 app = Flask(__name__)
 
 parser = argparse.ArgumentParser(description='Flask app')

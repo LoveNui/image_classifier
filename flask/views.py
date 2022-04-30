@@ -6,6 +6,7 @@ from flask import current_app as app
 from run import model
 from prediction import predict_image
 
+
 @app.route('/', methods=['GET'])
 def home():
   return render_template('index.html')
