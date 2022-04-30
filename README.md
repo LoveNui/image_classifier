@@ -36,3 +36,9 @@ The dataset is available on download [here](https://www.kaggle.com/datasets/krit
 `python run.py --path path/for/trained/model`
 ### Parameters:
 * path: a required path to weights   
+
+# Results
+### Test
+| Name          | Test accuracy | Model  |
+| ------------- |:-------------:| -----: |
+| ResNet50      | 0.9821        | [model] (https://drive.google.com/file/d/1_KYOiTaZ3MHnKI_Ee3pru1RvXhp2YsUt/view?usp=sharing)  |
