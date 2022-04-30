@@ -42,3 +42,9 @@ The dataset is available on download [here](https://www.kaggle.com/datasets/krit
 | Name          | Test accuracy | Model  |
 | ------------- |:-------------:| -----: |
 | ResNet50      | 0.9821        | [model](https://drive.google.com/file/d/1_KYOiTaZ3MHnKI_Ee3pru1RvXhp2YsUt/view?usp=sharing)  |
+
+### Images projections
+![Canvas](media/images/mess.png)
+
+### Flask
+![Web app](media/video/2022-05-01-02-00-41.avi)
