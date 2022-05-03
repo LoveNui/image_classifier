@@ -6,14 +6,14 @@
 # Dataset
 The dataset is available on download [here](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 
-# Training
+# Train
 `python train.py --path path/to/dataset --epochs 12 --model_dir path/for/model`
 ### Parameters:
 * path: path to dataset  
 * epochs: number of epochs  
 * model_dir: path where weights will be saved
 
-# Testing
+# Test
 `python test.py --path path/to/dataset --model path/for/trained/model`
 ### Parameters:
 * path: path to dataset  
