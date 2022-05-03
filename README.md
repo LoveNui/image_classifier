@@ -38,6 +38,7 @@ The dataset is available on download [here](https://www.kaggle.com/datasets/krit
 * path: a required path to weights   
 
 # Results
+Refer to [youtube](https://youtu.be/-pc2rZE890k).
 ### Test
 | Name          | Test accuracy | Model  |
 | ------------- |:-------------:| -----: |
@@ -45,6 +46,3 @@ The dataset is available on download [here](https://www.kaggle.com/datasets/krit
 
 ### Images projections
 ![Canvas](media/images/mess.png)
-
-### Flask
-Navigate to `media/video` to see results
