@@ -14,19 +14,22 @@ The dataset is available on download [here](https://www.kaggle.com/datasets/krit
 * model_dir: path where weights will be saved
 
 # Test
-`python test.py --path path/to/dataset --model path/for/trained/model`
+`python test.py --path path/to/dataset --model path/for/trained/model`      
+The result on test data will be printed.
 ### Parameters:
 * path: path to dataset  
 * model: path to model
 
 # Inference
-`python inference.py --image path/to/image --model path/for/trained/model`
+`python inference.py --image path/to/image --model path/for/trained/model`  
+The result of inference will be printed.
 ### Parameters:
 * image: path, image from dataset  
 * model: path to model
 
 # 2D images projections
-`python image_projection.py --path path/to/data --model path/for/trained/model`
+`python image_projection.py --path path/to/data --model path/for/trained/model`  
+The resulted image will be shown on a new window.
 ### Parameters:
 * path: path to test data, or data which will be projected   
 * model: path to model
